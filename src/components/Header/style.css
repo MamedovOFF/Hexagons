@@ -35,7 +35,7 @@
   padding: 20px;
   transition: all ease-out 500ms;
   box-shadow: -10px 0 10px 1px rgb(55, 63, 103);
-  z-index: 101;
+  z-index: 102;
 }
 
 .aside.mobile {
