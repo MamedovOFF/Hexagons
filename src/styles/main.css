@@ -1,0 +1,18 @@
+:root {
+  --carousel-windown-weight: 160px;
+  --carousel-windown-height: 250px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Arial', sans-serif;
+}
+
+#root {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background: radial-gradient(rgba(76, 78, 135, 1) 43%, rgba(2, 9, 35, 1) 86%);
+}
